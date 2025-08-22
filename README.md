@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Em transição para a área de Back-end, com foco em Computação em Nuvem e Inteligência Artificial.<br><br>💻 Atualmente programando em Java e aprofundando conhecimentos em tecnologias modernas.<br><br>🎓 Formação em andamento:<br>Analise e Desenvolvimento de Sistemas | Engenharia de Software<br><br>🔍 Sempre em busca de novos aprendizados e desafios que me permitam evoluir como desenvolvedor e contribuir com soluções eficientes.</p>
+<p align="left">✨ Em transição para a área de Back-end, com foco em Computação em Nuvem e Inteligência Artificial.<br><br>💻 Atualmente programando em Java e aprofundando conhecimentos em tecnologias modernas.<br><br>🎓 Formação em andamento:<br>Analise e Desenvolvimento de Sistemas | Engenharia de Software<br><br>📜 Certificações:<br>-  Microsoft Azure Fundamentals <br>-  Em estudo: AWS Certified Cloud Practitioner  <br><br>🔍 Sempre em busca de novos aprendizados e desafios que me permitam evoluir como desenvolvedor e contribuir com soluções eficientes.</p>
 
 ###
 
@@ -18,23 +18,25 @@
 
 ###
 
-<p align="left">linguagens e tecnologias:</p>
+<h4 align="left">linguagens e tecnologias:</h4>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="43" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="43" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="43" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
 ###
 
-<p align="left">IDE:</p>
+<h4 align="left">IDE:</h4>
 
 ###
 
@@ -43,5 +45,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
+
+###
+
+<h5 align="left"></h5>
 
 ###
