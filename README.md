@@ -10,21 +10,20 @@
 
 ###
 
-<p align="left">✨ Em transição para a área de Back-end, com foco em Computação em Nuvem e Inteligência Artificial.<br><br>💻 Atualmente programando em Java e aprofundando conhecimentos em tecnologias modernas.<br><br>🎓 Formação em andamento:<br>Analise e Desenvolvimento de Sistemas | Engenharia de Software<br><br>📜 Certificações:<br>-  Microsoft Azure Fundamentals <br>-  Em estudo: AWS Certified Cloud Practitioner  <br><br>🔍 Sempre em busca de novos aprendizados e desafios que me permitam evoluir como desenvolvedor e contribuir com soluções eficientes.</p>
+<p align="left">✨ Em transição para a área de Back-end, com foco em Computação em Nuvem.<br><br>💻 Atualmente programando em Java e aprofundando conhecimentos em tecnologias modernas.<br><br>🎓 Formação em andamento:<br>Analise e Desenvolvimento de Sistemas | Engenharia de Software<br><br>📜 Certificações:<br>- Microsoft Azure Fundamentals<br>- OCI Architect Associate<br><br>🔍 Sempre em busca de novos aprendizados e desafios que me permitam evoluir como desenvolvedor e contribuir com soluções eficientes.</p>
 
 ###
-
 <h2 align="left"></h2>
 
 ###
 
-<h4 align="left">linguagens e tecnologias:</h4>
+<h4 align="left">Linguagens e tecnologias:</h4>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="41" alt="java logo"  />
-  <img width="19" />
+  <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="41" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="41" alt="spring logo"  />
@@ -32,6 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="41" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="41" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="41" alt="oracle logo"  />
 </div>
 
 ###
