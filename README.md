@@ -10,28 +10,41 @@
 
 ###
 
-<p align="left">✨ Em transição para a área de Back-end, com foco em Computação em Nuvem.<br><br>💻 Atualmente programando em Java e aprofundando conhecimentos em tecnologias modernas.<br><br>🎓 Formação em andamento:<br>Analise e Desenvolvimento de Sistemas | Engenharia de Software<br><br>📜 Certificações:<br>- Microsoft Azure Fundamentals<br>- OCI Architect Associate<br><br>🔍 Sempre em busca de novos aprendizados e desafios que me permitam evoluir como desenvolvedor e contribuir com soluções eficientes.</p>
+<p align="left">✨ Em transição para a área de Back-end, com foco em Computação em Nuvem.<br><br>💻 Atualmente programando em Java e aprofundando conhecimentos em tecnologias modernas.<br><br>🎓 Formação em andamento:<br>Análise e Desenvolvimento de Sistemas | Engenharia de Software<br><br>📜 Certificações:<br>- Microsoft Azure Fundamentals<br>- OCI Architect Associate<br><br>🔍 Sempre em busca de novos aprendizados e desafios que me permitam evoluir como desenvolvedor e contribuir com soluções eficientes.</p>
 
 ###
 <h2 align="left"></h2>
 
 ###
 
-<h4 align="left">Linguagens e tecnologias:</h4>
+<h4 align="left">Linguagens:</h4>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="41" alt="java logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="41" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="41" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
+</div>
+
+###
+
+<h4 align="left">Tecnologias e ferramentas:</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="41" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="41" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="41" alt="oracle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
 </div>
 
 ###
@@ -41,13 +54,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
 </div>
-
-###
-
-<h5 align="left"></h5>
 
 ###
