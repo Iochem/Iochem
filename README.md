@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Em transição para a área de Back-end, com foco em Computação em Nuvem.<br><br>💻 Atualmente programando em Java e aprofundando conhecimentos em tecnologias modernas.<br><br>🎓 Formação em andamento:<br>Análise e Desenvolvimento de Sistemas | Engenharia de Software<br><br>📜 Certificações:<br>- Microsoft Azure Fundamentals<br>- OCI Architect Associate<br><br>🔍 Sempre em busca de novos aprendizados e desafios que me permitam evoluir como desenvolvedor e contribuir com soluções eficientes.</p>
+<p align="left">✨ Em transição para a área de Back-end, com foco em Computação em Nuvem.<br><br>💻 Atualmente programando em Java e aprofundando conhecimentos em tecnologias modernas.<br><br>🎓 Formação:<br>Análise e Desenvolvimento de Sistemas | Engenharia de Software(em andamento)<br><br>📜 Certificações:<br>- Microsoft Azure Fundamentals<br>- OCI Architect Associate<br><br>🔍 Sempre em busca de novos aprendizados e desafios que me permitam evoluir como desenvolvedor e contribuir com soluções eficientes.</p>
 
 ###
 <h2 align="left"></h2>
