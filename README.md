@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Brenda, tenho 21 anos , moro em Petrópolis e sou desenvolvedora Back-end</p>
+<p align="left">Meu nome é Brenda, tenho 21 anos, sou desenvolvedora Back-end</p>
 
 ###
 
