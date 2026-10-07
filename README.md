@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Desenvolvedora Back-end com foco em Java, sistemas distribuídos e arquiteturas orientadas a eventos.<br><br>⚙️ Atualmente trabalhando com:<br>- Java & Spring Boot<br>- Arquitetura orientada a eventos<br>- Apache Kafka<br>- OPC UA (Eclipse Milo)<br>- PostgreSQL & TimescaleDB<br>- Docker & Grafana<br><br>🎓 Formação:<br>Análise e Desenvolvimento de Sistemas | Engenharia de Software(em andamento)<br><br>📜 Certificações:<br>- Microsoft Azure Fundamentals<br>- OCI Architect Associate<br><br>🏭 Experiência com monitoramento e telemetria em tempo real, envolvendo processamento de eventos e observabilidade operacional.</p>
+<p align="left">💻 Desenvolvedora Back-end com foco em Java, sistemas distribuídos e arquiteturas orientadas a eventos.<br><br>⚙️ Atualmente trabalhando com:<br>- Java & Spring Boot<br>- Arquitetura orientada a eventos<br>- Apache Kafka<br>- OPC UA (Eclipse Milo)<br>- PostgreSQL & TimescaleDB<br>- Docker & Grafana<br><br>🎓 Formação:<br>Análise e Desenvolvimento de Sistemas | Engenharia de Software(em andamento)<br><br>📜 Certificações:<br>- Microsoft Azure Fundamentals<br>- OCI Architect Associate<br><br>🏭 Experiência com monitoramento e telemetria em tempo real, envolvendo processamento de eventos, observabilidade operacional e indústria 4.0.</p>
 
 ###
 <h2 align="left"></h2>
